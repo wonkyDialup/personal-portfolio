@@ -10,7 +10,7 @@
 👤 **Justin Gibbs**
 
 * Github: [@wonkyDialup](https://github.com/wonkyDialup)
-* LinkedIn: [@Justin Gibbs](https://linkedin.com/in/Justin Gibbs)
+* LinkedIn: [@Justin Gibbs](https://https://www.linkedin.com/in/justin-gibbs-215319141/)
 
 ## 🤝 Contributing
 
@@ -21,4 +21,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<!-- _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_ -->
