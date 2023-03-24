@@ -28,7 +28,7 @@
     'host' => 'email-smtp.us-east-2.amazonaws.com',
     'username' => 'ses-smtp-user.20230324-010630',
     'password' => 'BB1q/YefUnBVUk2Bxg02XWx8jBMzQDd0tnFUYh1EPGw8',
-    'port' => '465',
+    'port' => '587',
     'encryption' => 'tls'
  );
 
