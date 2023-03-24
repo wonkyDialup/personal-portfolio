@@ -29,7 +29,7 @@
     'username' => 'ses-smtp-user.20230324-010630',
     'password' => 'BB1q/YefUnBVUk2Bxg02XWx8jBMzQDd0tnFUYh1EPGw8',
     'port' => '465',
-    'encryption' => 'ssl'
+    'encryption' => 'tls'
  );
 
   $contact->add_message( $_POST['name'], 'From');
