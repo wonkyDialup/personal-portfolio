@@ -25,10 +25,10 @@
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
  $contact->smtp = array(
-    'host' => 'www.justin-gibbs.com',
-    'username' => 'justin.gibbs59@gmail.com',
-    'password' => 'ku3!yLkCrXvKeYb',
-    'port' => '2525'
+    'host' => 'email-smtp.us-east-2.amazonaws.com',
+    'username' => 'ses-smtp-user.20230324-010630',
+    'password' => 'BB1q/YefUnBVUk2Bxg02XWx8jBMzQDd0tnFUYh1EPGw8',
+    'port' => '25'
  );
 
   $contact->add_message( $_POST['name'], 'From');
