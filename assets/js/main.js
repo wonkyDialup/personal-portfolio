@@ -151,9 +151,7 @@
     });
   }
 
-  /**
-   * Skills animation
-   */
+ 
   let skilsContent = select('.skills-content');
   if (skilsContent) {
     new Waypoint({
@@ -168,9 +166,7 @@
     })
   }
 
-  /**
-   * Porfolio isotope and filter
-   */
+
   window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
     if (portfolioContainer) {
